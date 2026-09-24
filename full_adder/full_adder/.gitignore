@@ -1,0 +1,29 @@
+# ISE build/synthesis artifacts
+*.ngc
+*.ngr
+*.ngo
+*.lso
+*.stx
+*.syr
+*.xrpt
+*_summary
+*_envsettings
+*_cmd_log
+*.gise
+
+# ISE working folders
+ipcore_dir/
+iseconfig/
+xst/
+_xmsgs/
+isim/
+
+# Simulation build output
+*_isim_beh
+fuse
+fuse.xmsgs
+fuseRelaunch
+xilinxsim.ini
+webtalk_pn
+pepExtractor.prj
+*.wdb
