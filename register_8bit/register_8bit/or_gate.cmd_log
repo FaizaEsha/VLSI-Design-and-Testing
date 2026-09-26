@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/or_gate.xst" -ofn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/or_gate.syr" 
