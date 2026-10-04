@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/mux8to1.xst" -ofn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/mux8to1.syr" 
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/mux8to1.xst" -ofn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/mux8to1.syr" 

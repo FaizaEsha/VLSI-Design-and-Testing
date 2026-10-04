@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/master_slave_ff.xst" -ofn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/master_slave_ff.syr" 

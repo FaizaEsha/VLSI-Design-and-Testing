@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/CSE_450_Xilinx/Faiza_VLSI/mux8to1_tb_isim_beh.exe" -prj "/home/ise/CSE_450_Xilinx/Faiza_VLSI/mux8to1_tb_beh.prj" "work.mux8to1_tb" 

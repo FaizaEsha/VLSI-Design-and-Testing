@@ -1,0 +1,3 @@
+vhdtdtfi -lib work nand_gate.vhd -lib work not_gate.vhd -lib work or_gate.vhd -lib work nor_gate.vhd -prj Faiza_VLSI -o nor_gate.spl -module nor_gate -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 nor_gate.spl /home/ise/CSE_450_Xilinx/Faiza_VLSI/nor_gate.sym 
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/nor_gate.xst" -ofn "/home/ise/CSE_450_Xilinx/Faiza_VLSI/nor_gate.syr" 
