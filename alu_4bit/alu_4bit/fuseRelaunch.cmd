@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/CSE_450_Xilinx/Faiza-22201121-Mid/alu_4bit_tb_isim_beh.exe" -prj "/home/ise/CSE_450_Xilinx/Faiza-22201121-Mid/alu_4bit_tb_beh.prj" "work.alu_4bit_tb" 

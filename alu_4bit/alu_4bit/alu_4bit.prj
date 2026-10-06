@@ -1,0 +1,8 @@
+vhdl work "or_gate.vhd"
+vhdl work "full_adder_1bit.vhd"
+vhdl work "and_gate.vhd"
+vhdl work "or_4bit.vhd"
+vhdl work "mux_4to1_4bit.vhd"
+vhdl work "full_adder_4bit.vhd"
+vhdl work "and_4bit.vhd"
+vhdl work "alu_4bit.vhd"

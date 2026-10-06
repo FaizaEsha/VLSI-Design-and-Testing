@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/CSE_450_Xilinx/CSE450_22201055_Mid/full_adder_1bit.xst" -ofn "/home/ise/CSE_450_Xilinx/CSE450_22201055_Mid/full_adder_1bit.syr" 
